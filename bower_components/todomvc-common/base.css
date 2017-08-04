@@ -232,7 +232,7 @@ label[for='toggle-all'] {
 	left: 34px;
 	padding: 0 4px;
 	background-color: #fcfcfc;
-	/*color: #d00;*/
+	color: #d00;
 	z-index: 10;
 	/* Mobile Safari */
 	border: none;
